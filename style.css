@@ -36,6 +36,9 @@ a {
 .mt100 {
   margin-top: 100px;
 }
+.mb100 {
+  margin-bottom: 100px;
+}
 /*************************/
 
 header {
@@ -65,7 +68,9 @@ nav > div a:hover{
   color: #18bc9c;
   text-decoration: none;
 }
-#jumbo {
+#jumbo,
+#portfolio,
+#about {
   height: 100vh;
 }
 #jumbo img {
@@ -80,10 +85,17 @@ nav > div a:hover{
   font-size: 26px;
   font-weight:500;
 }
-#portfolio {
-  height: 100vh;
+hr {
+display: inline;
 }
 #portfolio h2 {
   font-size: 50px;
   font-weight: bold;
+}
+#about h2 {
+  font-size: 50px;
+  font-weight: bold;
+}
+#wrapperColonne p {
+  font-size: 20px;
 }
