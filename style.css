@@ -70,7 +70,8 @@ nav > div a:hover{
 }
 #jumbo,
 #portfolio,
-#about {
+#about,
+#contatti{
   height: 100vh;
 }
 #jumbo img {
