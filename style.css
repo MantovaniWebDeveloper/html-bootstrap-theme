@@ -30,6 +30,18 @@ a {
 .btnInverse:hover {
   background-color: #fff;
 }
+.btnSubmit {
+  background-color: #18bc9c;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
+  border-radius: 5px;
+  border-color: #18bc9c;
+
+}
 /************************/
 /****MARGINI*****/
 .mt15 {
@@ -138,6 +150,13 @@ nav > div a:hover{
 }
 form {
 }
-form input {
+form input,textarea {
   margin-top: 20px;
+  display:block;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid lightgrey;
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
