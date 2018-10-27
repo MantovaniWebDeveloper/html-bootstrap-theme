@@ -11,6 +11,9 @@ a {
 .verdeScuro {
   background-color: #18bc9c;
 }
+.nero {
+  background-color: #1a252f;
+}
 /*************************/
 /****COLORI DI TESTO ****/
 .testoBianco {
@@ -176,4 +179,8 @@ form input,textarea {
 #topFooter p {
   font-size: 25px;
   font-weight:400;
+}
+#bottomFooter {
+  height: 80px;
+  line-height: 80px;
 }
