@@ -66,6 +66,14 @@ a {
   margin-right: 15px;
 }
 /*************************/
+/****PADDING*****/
+.pt50 {
+  padding-top: 50px;
+}
+.pt60 {
+  padding-top: 60px;
+}
+/*************************/
 
 header {
   height: 100px;
@@ -148,8 +156,6 @@ nav > div a:hover{
   font-size: 50px;
   font-weight: bold;
 }
-form {
-}
 form input,textarea {
   margin-top: 20px;
   display:block;
@@ -159,4 +165,15 @@ form input,textarea {
   font-size: 25px;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+#topFooter {
+  height: 300px;
+}
+#topFooter h4 {
+  font-size: 25px;
+  font-weight:500;
+}
+#topFooter p {
+  font-size: 25px;
+  font-weight:400;
 }
