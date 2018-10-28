@@ -62,8 +62,14 @@ a {
 .mt100 {
   margin-top: 100px;
 }
+.mb40 {
+  margin-bottom: 40px;
+}
 .mb100 {
   margin-bottom: 100px;
+}
+.mb200 {
+  margin-bottom: 200px;
 }
 .mr15 {
   margin-right: 15px;
